@@ -15,6 +15,7 @@ config:
   - 670764308 # Eco Trees
   - 2147192126 # Ecos Empires
   - 2819739970 # Viking Empire
+  - 2677089698 # Viking decor
   ark:image: hermsi/ark-server:latest-1669093394
   ark:server-map: Fjordur
   ark:server-password:
