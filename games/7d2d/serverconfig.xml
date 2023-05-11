@@ -43,7 +43,7 @@
 	<!-- <property name="SaveGameFolder"				value="absolute path" /> -->	<!-- Use this to only override the save game path. Do not forget to uncomment the entry! -->
 
 	<!-- Other technical settings -->
-	<property name="EACEnabled"						value="true"/>				<!-- Enables/Disables EasyAntiCheat -->
+	<property name="EACEnabled"						value="false"/>				<!-- Enables/Disables EasyAntiCheat -->
 	<property name="HideCommandExecutionLog"		value="0"/>					<!-- Hide logging of command execution. 0 = show everything, 1 = hide only from Telnet/ControlPanel, 2 = also hide from remote game clients, 3 = hide everything -->
 	<property name="MaxUncoveredMapChunksPerPlayer"	value="131072"/>			<!-- Override how many chunks can be uncovered on the ingame map by each player. Resulting max map file size limit per player is (x * 512 Bytes), uncovered area is (x * 256 m²). Default 131072 means max 32 km² can be uncovered at any time -->
 	<property name="PersistentPlayerProfiles"		value="false" />			<!-- If disabled a player can join with any selected profile. If true they will join with the last profile they joined with -->
