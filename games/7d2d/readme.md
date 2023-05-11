@@ -3,7 +3,9 @@
 
 1. Get your hands on the save file and place it in the appropriate system folder
 
-2. Run the server:
+2. Forward port 5940 in your router
+
+3. Run the server:
 
 On linux, run this command:
 
