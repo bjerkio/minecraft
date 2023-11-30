@@ -616,10 +616,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@pulumi/google-native@^0.22.0":
-  version "0.22.0"
-  resolved "https://registry.yarnpkg.com/@pulumi/google-native/-/google-native-0.22.0.tgz#8edf9f6b18944b7c6bc8bcc5e3f3f72699cb6d7f"
-  integrity sha512-+6p4lZLIKLHmjdRG08xKyypu+wDzWeG1Im6j/56M7+m+apztAU6sEckEO42pa4w45q1KB5Q3z0LGL4lEC5zfUA==
+"@pulumi/google-native@^0.32.0":
+  version "0.32.0"
+  resolved "https://registry.yarnpkg.com/@pulumi/google-native/-/google-native-0.32.0.tgz#df5510b54c5bf02ba2012ff5b3756b4785a9f13c"
+  integrity sha512-7PJrCGHhmN/WnscNoImQtJPd1y817F/678KcgT8JhtTo4Af5enFpKXbQP4owoA9ngoJ4s+0lopBJHDbQi528Zw==
   dependencies:
     "@pulumi/pulumi" "^3.0.0"
 
